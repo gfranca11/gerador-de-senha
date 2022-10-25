@@ -22,8 +22,8 @@ GEREADOR DE SENHAS
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ https://github.com/gfranca11/gerador-de-senha
-        $ cdgerador-de-senha
+        $ git clone https://github.com/gfranca11/gerador-de-senha
+        $ cd gerador-de-senha
         
  
  
